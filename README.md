@@ -26,4 +26,4 @@ A quick crash course in understanding the essentials of TensorFlow 2 and the int
 
 ![](https://i.imgur.com/kZJDvHg.png)
 
-__Author:__ [Dipanjan (DJ) Sarkar](https://www.linkedin.com/in/dipanzan/)
+__Author:__ [Dipanjan (DJ) Sarkar](https://www.linkedin.com/in/dipanzan/).
